@@ -97,3 +97,5 @@ INSERT INTO ArticuloVenta (articulo_codigo, cantidad) VALUES (1, 2);
 INSERT INTO ArticuloVenta (articulo_codigo, cantidad) VALUES (2, 5);
 
 INSERT INTO ArticuloVenta (articulo_codigo, cantidad) VALUES (3, 1);
+
+// Comentario
