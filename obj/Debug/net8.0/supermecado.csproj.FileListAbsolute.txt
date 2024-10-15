@@ -1,0 +1,14 @@
+/home/et12alumno/Descargas/supermecado/bin/Debug/net8.0/supermecado
+/home/et12alumno/Descargas/supermecado/bin/Debug/net8.0/supermecado.deps.json
+/home/et12alumno/Descargas/supermecado/bin/Debug/net8.0/supermecado.runtimeconfig.json
+/home/et12alumno/Descargas/supermecado/bin/Debug/net8.0/supermecado.dll
+/home/et12alumno/Descargas/supermecado/bin/Debug/net8.0/supermecado.pdb
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/supermecado.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/supermecado.AssemblyInfoInputs.cache
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/supermecado.AssemblyInfo.cs
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/supermecado.csproj.CoreCompileInputs.cache
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/supermecado.dll
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/refint/supermecado.dll
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/supermecado.pdb
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/supermecado.genruntimeconfig.cache
+/home/et12alumno/Descargas/supermecado/obj/Debug/net8.0/ref/supermecado.dll
